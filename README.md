@@ -1,4 +1,8 @@
-# Getting Started
+---
+icon: home
+---
+
+# What is InterChat?
 
 #### InterChat: Connecting Servers like never before
 
@@ -22,6 +26,6 @@ To use our bot, you'll first need to invite it to your server. To do this, you'l
 2. Select the server you want to invite the bot to and click "Authorize."
 3. Follow any additional prompts to give the bot the necessary permissions.
 
-{% hint style="danger" %}
+!!!danger
 We ask that you double-check if InterChat has **Manage Messages**, **Embed Links** and **Send Messages** permissions. If the bot does not have these permissions, it will not be able to function properly and may cause issues during the setup process.
-{% endhint %}
+!!!
