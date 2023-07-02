@@ -10,7 +10,7 @@ The InterChat setup command is the key to accessing the chat network and customi
 
 ### Sub-Commands:
 
-{% tabs %}
+<!-- {% tabs %}
 {% tab title="Channel" %}
 Choose the channel you want to connect to the chat network using the InterChat setup command. It is suggested to create a separate channel for this as it may become cluttered. You can always change the network connection settings in the setup later.
 
@@ -34,4 +34,4 @@ This is a destructive action. All your existing setup data will be gone once thi
 
 Completely reset your network settings by wiping out all existing data, including network connection settings, setup data, and network data.
 {% endtab %}
-{% endtabs %}
+{% endtabs %} -->
