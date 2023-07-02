@@ -1,8 +1,0 @@
-input: .
-output: .retype
-url: # Add your website address here
-branding:
-  title: InterChat
-  label: v3.12.0
-footer:
-  copyright: "&copy; Copyright InterChat {{ year }}. All rights reserved."
