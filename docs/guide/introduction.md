@@ -13,7 +13,8 @@ Whether you wish to collaborate with others, unite for special events, or simply
 4. Personalize InterChat to your preferences, whether it's choosing a distinct embedded color, customizing hub icons, or opting for a compact/embedded format.
 5. The InterChat developers value your suggestions and are committed to providing regular updates.
 
-## Adding InterChat to a Server
+
+## Adding InterChat to your Server
 
 To add InterChat to your server, follow these quick steps:
 
@@ -24,10 +25,10 @@ To add InterChat to your server, follow these quick steps:
 3. Select your server and click "Continue"
 
 4. Review the permissions, ensuring that the following are included:
+   - Send Messages
    - Manage Messages
    - Embed Links
-   - Send Messages
 
-5. Click "Authorize" to invite InterChat to your server.
+6. Lastly click "Authorize"
 
-That's it! You're now ready to enjoy using InterChat on your server.
+That's it! You're now ready to use InterChat on your server.
