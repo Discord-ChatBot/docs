@@ -9,9 +9,9 @@ Whether you wish to collaborate with others, unite for special events, or simply
 
 1. InterChat offers a unique opportunity to enhance your server's activity.
 2. Rest assured, InterChat is committed to your privacy and never stores your message data.
-3. Experience the joy of connecting with friends from different servers in a fun and interactive way.
-4. Personalize InterChat to your preferences, whether it's choosing a distinct embedded color, customizing hub icons, or opting for a compact/embedded format.
-5. The InterChat developers value your suggestions and are committed to providing regular updates.
+3. The InterChat developers value your suggestions and are committed to providing regular updates.
+4. Experience the joy of connecting with friends from different servers in a fun and interactive way.
+5. Personalize InterChat to your preferences, whether it's choosing a distinct embedded color, customizing hub icons, or opting for a compact/embedded format.
 
 
 ## Adding InterChat to your Server
@@ -19,16 +19,12 @@ Whether you wish to collaborate with others, unite for special events, or simply
 To add InterChat to your server, follow these quick steps:
 
 1. Ensure you have the ```Manage server``` permission.
-
 2. Click [here](https://discord.com/oauth2/authorize?client_id=769921109209907241&scope=bot+applications.commands&permissions=292662144240) to access the InterChat authorization page.
-
 3. Select your server and click "Continue"
-
 4. Review the permissions, ensuring that the following are included:
    - Send Messages
    - Manage Messages
    - Embed Links
-
 6. Lastly click "Authorize"
 
 That's it! You're now ready to use InterChat on your server.
