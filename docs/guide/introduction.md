@@ -19,7 +19,7 @@ Whether you wish to collaborate with others, unite for special events, or simply
 To add InterChat to your server, follow these quick steps:
 
 1. Ensure you have the ```Manage Server``` permission.
-2. Click [here](https://discord.com/oauth2/authorize?client_id=769921109209907241&scope=bot+applications.commands&permissions=292662144240) to access the InterChat authorization page.
+2. Click [here](https://discord-interchat.github.io/invite) to access the InterChat authorization page.
 3. Select your server and click "Continue"
 4. Review the permissions, ensuring that the following are included:
    - Send Messages
