@@ -29,3 +29,21 @@ To add InterChat to your server, follow these quick steps:
 5. Lastly click "Authorize"
 
 That's it! It's time to set up InterChat on your server.
+
+## Keywords
+
+# Hubs - What Are They?
+Think of hubs hubs as your personal chat spaces, both creatable and joinable. They're like your exclusive ship docks, where other servers can engage and chat within your server.
+
+# What Are Networks?
+A network is like a web of connected servers, all cross-linked together.
+
+# Servers?
+A Discord server is like a digital group for people to hangout and chat.
+
+
+
+
+
+
+
