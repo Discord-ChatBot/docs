@@ -36,6 +36,13 @@ That's it! It's time to set up InterChat on your server.
 
 **Networks?** - A network is like a web of connected servers, all cross-linked together.
 
+## Other Important Links
+[DiscordBotList](https://discord.com/application-directory/769921109209907241)
+[Top.gg](https://top.gg/bot/769921109209907241)
+[Support Server](https://discord.gg/EY77XNP7q9)
+[InterChat's Privacy Policy](../important/privacy.md)
+[InterChat's Terms of Service](../important/terms.md)
+
 
 
 
