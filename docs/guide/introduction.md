@@ -28,3 +28,36 @@ To add InterChat to your server, follow these quick steps:
 6. Lastly click "Authorize"
 
 That's it! You're now ready to use InterChat on your server.
+
+
+<html>
+<head>
+<style>
+@keyframes glow {
+  0% { color: cyan; }
+  50% { color: initial; }
+  100% { color: cyan; }
+}
+</style>
+</head>
+<body>
+
+<p id="glowingText">FrostSpike</p>
+
+<script>
+function startGlowing() {
+  var text = document.getElementById("glowingText");
+  text.style.animation = "glow 2s infinite";
+}
+
+function stopGlowing() {
+  var text = document.getElementById("glowingText");
+  text.style.animation = "none";
+}
+</script>
+
+<button onclick="startGlowing()">Start Glowing</button>
+<button onclick="stopGlowing()">Stop Glowing</button>
+
+</body>
+</html>
