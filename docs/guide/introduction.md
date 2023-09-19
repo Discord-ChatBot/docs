@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+id: home
+slug: /
+---
 # Getting Started
 
 ## InterChat: Connecting Servers Beyond Imagination!
@@ -37,7 +42,7 @@ That's it! It's time to set up InterChat on your server.
 **Networks?** - A network is like a web of connected servers, all cross-linked together.
 
 ## Additional Resources
-- [DiscordBotList](no link) 🤖
+- [DiscordBotList](https://discordbotlist.com/bots/chatbot) 🤖
 - [Discovery](https://discord.com/application-directory/769921109209907241) 🔍
 - [Top.gg](https://top.gg/bot/769921109209907241) 📊
 - [Support Server](https://discord.gg/EY77XNP7q9) 🚀
