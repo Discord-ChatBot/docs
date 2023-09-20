@@ -10,7 +10,7 @@ InterChat is a powerful discord bot that enables effortless cross-server communi
 Whether you wish to collaborate with others, unite for special events, or simply connect with like minded individuals from around the globe!
 
 
-### Why use InterChat?:
+### Why Choose InterChat?:
 
 1. InterChat offers a unique opportunity to enhance your server's activity.
 2. Rest assured, InterChat is committed to your privacy and never stores your message data.
