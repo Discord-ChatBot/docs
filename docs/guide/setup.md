@@ -22,14 +22,14 @@ Remember, you can only join one hub per channel. If you want to join a new hub i
 
   > Use the `/network manage` command to temporarily disconnect from a hub. You can reconnect anytime using the same command. 
   > 
-  > ![](/img/network-manage.png)
+  > ![](/img/network_manage_command.png)
 
 
 - **Permanently Leave a Hub:**
 
   > Use `/hub leave` to leave a hub permanently. You can rejoin anytime using `/hub join <hub> <channel>`
   > 
-  > ![](/img/hub-leave.png)
+  > ![](/img/hub_leave_command.png)
 
 
 Now you're all set to chat seamlessly across different servers! 🚀
