@@ -1,13 +1,11 @@
-# Editing Your Message
+# Message Editing
 
-Here's how you can edit a message that was sent using InterChat:
+Follow these steps to edit messages within InterChat:
 
-1. Hover over the message that you wish to delete
-2. Click on the three dots
+1. Hover over the message you wish to edit.
+2. Click on the three dots and choose Apps.
+3. Select the Edit Message command provided by InterChat.
+4. A pop-up window will appear, prompting you to input your new message.
+5. Enter the new message and click Submit to complete the editing process.
 
-> ![hover](/img/more-hover.png)
-
-3. Click on `Apps`
-4. Click `Edit Message` !
-5. A pop up will appear, prompting you to enter your new message
-6. Enter your new message and click `Submit` to edit.
+> ![gif](/img/NewMsgEdit2.gif)
