@@ -1,4 +1,4 @@
-# Joining a Hub
+# 🔗 Joining a Hub
 
 In InterChat, joining and leaving hubs is a straightforward process, whether you're joining a public hub or a private one. This guide will walk you through the steps to get you chatting in no time.
 
