@@ -5,6 +5,10 @@ InterChat provides you with a variety of features to ensure a smooth and interac
 
 To communicate with other servers within a hub, all you need to do is type and send your message in the channel where you joined the hub. Your message will be visible to everyone in the hub, encouraging open and engaging conversations.
 
+This is an example how your message might look like in the hub:
+
+> ![](../../static/img/MessageExample.png)
+
 ### Replying to Messages
 
 InterChat's intuitive reply feature allows you to respond to messages sent within the last 12 hours easily. Here's how:
