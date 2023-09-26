@@ -15,7 +15,7 @@ InterChat's intuitive reply feature allows you to respond to messages sent withi
 
 InterChat will handle the rest, ensuring your reply is properly linked to the original message.
 
-> ![](../static/img/NewMsgReply2.gif)
+> ![](../../static/img/NewMsgReply2.gif)
 
 ## Editing and Deleting Messages
 
@@ -31,7 +31,7 @@ To edit a message on InterChat, follow these steps:
 4. Click "Edit Message".
 5. A pop-up will appear prompting you to enter your new message. Do so and click "Submit" to finalize the edit.
 
-> ![](../static/img/NewMsgEdit2.gif)
+> ![](../../static/img/NewMsgEdit2.gif)
 
 ### Deleting Messages
 
@@ -50,4 +50,4 @@ Alternatively, you can use the `/support report` command to report any other iss
 
 Happy chatting!
 
-> ![](../static/img/ReportExampleGif.gif)
+> ![](../../static/img/ReportExampleGif.gif)
