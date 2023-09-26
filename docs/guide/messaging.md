@@ -1,4 +1,4 @@
-# Sending and Responding to Messages
+# Messaging
 InterChat provides you with a variety of features to ensure a smooth and interactive communication experience. This guide covers the basics of using InterChat, including sending, deleting, editing, and replying to messages, as well as reporting inappropriate content or users.
 
 ### Sending Messages
