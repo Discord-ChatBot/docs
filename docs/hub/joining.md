@@ -2,7 +2,7 @@
 title: 🔗 Joining
 ---
 
-# Joining a Hub
+# 🔗 Joining a Hub
 
 In InterChat, joining and leaving hubs is a straightforward process, whether you're joining a public hub or a private one. This guide will walk you through the steps to get you chatting in no time.
 
@@ -25,8 +25,6 @@ Joining a private hub requires an invitation code from the hub owner or moderato
 
 **Example:**
 
-```
-/hub join channel:#channel-here invite:invite-code-here
-```
+> ![](/img/HubJoinPrivate.gif)
 
 Make sure to replace `invite-code-here` with the actual invitation code provided to you. This will grant you access to the private hub.
