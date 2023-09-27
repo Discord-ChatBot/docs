@@ -52,10 +52,8 @@ Similarly, to delete a message:
 
 ## Reporting Messages & Users
 
-If you come across inappropriate content or users, InterChat provides options to report them. Right-click on the message you wish to report and select "Report" from the context menu. Please note that this feature only works for messages sent within the network channel. 
-
-Alternatively, you can use the `/support report` command to report any other issues.
-
-Happy chatting!
+If you come across inappropriate content or users, InterChat provides options to report them. Right-click on the message you wish to report and select "Report" from the context menu. Please note that this feature only works for messages sent within the network channel.
 
 > ![](/img/ReportExampleGif.gif)
+
+Alternatively, you can use the `/support report` command to report any other issues. Happy chatting!
