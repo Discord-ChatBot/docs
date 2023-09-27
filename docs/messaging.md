@@ -1,4 +1,8 @@
-# Messaging
+---
+sidebar_position: 2
+---
+
+# 💬 Messaging
 InterChat provides you with a variety of features to ensure a smooth and interactive communication experience. This guide covers the basics of using InterChat, including sending, deleting, editing, and replying to messages, as well as reporting inappropriate content or users.
 
 ### Sending Messages
@@ -7,7 +11,7 @@ To communicate with other servers within a hub, all you need to do is type and s
 
 This is an example how your message might look like in the hub:
 
-> ![](../../static/img/MessageExample.png)
+> ![](/img/MessageExample.png)
 
 ### Replying to Messages
 
@@ -19,7 +23,7 @@ InterChat's intuitive reply feature allows you to respond to messages sent withi
 
 InterChat will handle the rest, ensuring your reply is properly linked to the original message.
 
-> ![](../../static/img/MsgReply.gif)
+> ![](/img/MsgReply.gif)
 
 ## Editing and Deleting Messages
 
@@ -35,7 +39,7 @@ To edit a message on InterChat, follow these steps:
 4. Click "Edit Message".
 5. A pop-up will appear prompting you to enter your new message. Do so and click "Submit" to finalize the edit.
 
-> ![](../../static/img/MsgEdit.gif)
+> ![](/img/MsgEdit.gif)
 
 ### Deleting Messages
 
@@ -54,4 +58,4 @@ Alternatively, you can use the `/support report` command to report any other iss
 
 Happy chatting!
 
-> ![](../../static/img/ReportExampleGif.gif)
+> ![](/img/ReportExampleGif.gif)

@@ -3,7 +3,7 @@ sidebar_position: 1
 id: home
 slug: /
 ---
-# Getting Started
+# 🚀 Getting Started
 
 ## InterChat: Connecting Servers Beyond Imagination!
 InterChat is a powerful discord bot that enables effortless cross-server communication. By adding InterChat, you can engage in real-time conversations with members of different servers while within the comfort of your own!

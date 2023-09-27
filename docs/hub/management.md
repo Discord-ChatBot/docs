@@ -1,4 +1,4 @@
-# Hub Management
+# 💼 Creating & Editing
 
 ### 2.1 Creating a Hub
 
@@ -38,15 +38,18 @@ There are two roles you can assign to moderators: `Network Moderator` and `Hub M
 
 To remove a moderator, use the `/hub moderator remove` command.
 
-### 2.4 Managing Hub Settings
 
-You can change your hub's settings at any time. To do this, use the `/hub manage` command.
+
+### 2.4 Editing your Hub
+
+You can edit your hubs at any time. To do this, use the `/hub manage` command.
 
 **Example:**
 
 ```
 /hub manage hub:MyCoolHub
 ```
+![](/img/HubManage.gif)
 
 This will open a menu where you can change your hub's settings. You can change your hub's name, icon, banner, description and more. You can also change your hub's visibility.
 

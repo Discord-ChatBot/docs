@@ -1,3 +1,7 @@
+---
+title: 🚪 Leaving
+---
+
 # Leaving a Hub
 
 Leaving a hub is just as simple as joining, but there are a few things to keep in mind. Once you leave a hub, the channel used to connect your server with the hub will no longer be used, and all network settings associated with that hub in your server will be deleted and lost forever.

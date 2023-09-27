@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
 ---
-# Setting up InterChat
+
+# ⚙️ Setup
 Setting up InterChat is a straight-forward process that enables you to chat across various servers. Follow the steps below to get started!
 
 ### Discover and Join Hubs:
