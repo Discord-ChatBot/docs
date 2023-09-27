@@ -71,7 +71,7 @@ const config = {
   
       image: 'img/banner.jpg',
       navbar: {
-        title: 'InterChat Docs',
+        title: 'InterChat',
         logo: {
           alt: 'InterChat Logo',
           src: 'img/logo.png',

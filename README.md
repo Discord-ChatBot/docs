@@ -1,4 +1,6 @@
-# InterChat Docs
+# InterChat Documentation
+
+This is the official documentation for InterChat, a Discord bot that allows you to chat across different servers.
 
 ### Installation
 
