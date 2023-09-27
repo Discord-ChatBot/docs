@@ -53,4 +53,4 @@ In comparision, a network is like a web of connected servers, all cross-linked t
 
 That's it! It's time to set up InterChat on your server.
 
-**✨ Next Up:** [Setting up InterChat.](./guide/setup.md)
+**✨ Next Up:** [Setting up InterChat.](./setup.md)
