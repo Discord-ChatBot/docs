@@ -129,6 +129,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    stylesheets: [
+      { href: 'src/css/custom.css' }
+    ]
 };
 
 module.exports = config;
