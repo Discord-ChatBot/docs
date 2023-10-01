@@ -65,6 +65,7 @@ const config = {
           : undefined
       ,
       colorMode: {
+        defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
@@ -84,8 +85,13 @@ const config = {
           //   label: 'Docs',
           // },
           {
-            href: 'https://dsc.gg/interchat',
+            href: 'https://discord-interchat.github.io/invite',
             label: 'Invite',
+            position: 'right',
+          },
+          {
+          href: 'https://dsc.gg/interchat-support',
+            label: 'Community',
             position: 'right',
           },
           {

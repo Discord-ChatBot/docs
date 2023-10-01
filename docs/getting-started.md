@@ -35,7 +35,7 @@ To add InterChat to your server, follow these quick steps:
 
 ## Keywords
 
-- **Hubs:** Think of hubs as your personal chat spaces, both creatable and joinable. They're like exclusive rooms where other servers can join to engage & chat together.
+- **Hubs:** Think of hubs as your personal chat spaces, both creatable and joinable. They're like exclusive rooms where various other servers can come to engange in coversations.
 
 - **Networks:** In comparision, a network is like a web of connected servers, all cross-linked to a hub.
 
@@ -48,6 +48,5 @@ To add InterChat to your server, follow these quick steps:
 - [🔒 InterChat's Privacy Policy](./legal/privacy.md)
 - [📜 InterChat's Terms of Service](./legal/terms.md)
 
-That's it! It's time to set up InterChat on your server.
+That's it! It's now time to set up InterChat on your server.
 
-**✨ Next Up:** [Setting up InterChat.](./setup.md)
