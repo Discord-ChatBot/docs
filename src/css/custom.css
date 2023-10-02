@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #5cb5f9;
-  --ifm-color-primary-normal: white;
+  /* --ifm-color-primary-normal: black; */
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -21,7 +21,7 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #5cb5f9;
-  --ifm-color-primary-normal: black;
+  --ifm-color-primary-normal: white;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -44,8 +44,7 @@
 
 /* style the pagination buttons that say the next page's name */
 .pagination-nav__label {
-  /* add color to font */
-  color: white;
+  color: var(--ifm-color-primary-normal);
 }
 
 /* style the pagination buttons that say "next" or "previous" */
@@ -54,9 +53,11 @@
   color: #a2a9b9;
 }
 /* style the text of the pagination buttons */
-.pagination-nav__link {
-  /* align text to left */
+.pagination-nav__link--next {
   text-align: left;
+}
+.pagination-nav__link--prev {
+  text-align: right;
 }
 
 /* style the table of contents on the right */
