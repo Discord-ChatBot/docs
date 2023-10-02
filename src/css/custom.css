@@ -52,13 +52,6 @@
   /* add color to font */
   color: #a2a9b9;
 }
-/* style the text of the pagination buttons */
-.pagination-nav__link--next {
-  text-align: left;
-}
-.pagination-nav__link--prev {
-  text-align: right;
-}
 
 /* style the table of contents on the right */
 .table-of-contents__link {
