@@ -1,8 +1,8 @@
 {
   "name": "InterChat",
   "logo": {
-    "light": "/images/logo.png",
-    "dark": "/images/logo.png",
+    "light": "/images/icon_light.png",
+    "dark": "/images/icon_dark.png",
     "href": "https://discord-interchat.github.io/"
   },
   "favicon": "/images/logo.png",
@@ -14,7 +14,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "messaging"]
+      "pages": ["introduction", "setup", "messaging"]
     },
     {
       "group": "Hubs",
@@ -23,6 +23,10 @@
     {
       "group": "Legal",
       "pages": ["legal/privacy", "legal/terms"]
+    },
+    {
+      "group": " ",
+      "pages": ["next-steps"]
     }
   ],
   "tabs": [
