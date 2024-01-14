@@ -1,9 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import { themes } from 'prism-react-renderer';
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-require('dotenv/config');
+const lightCodeTheme = themes.oneDark
+const darkCodeTheme = themes.dracula
+import 'dotenv/config';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,19 +58,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: process.env.ALGOLIA_API_KEY
-          ? {
-            appId: process.env.ALGOLIA_APP_ID,
-            apiKey: process.env.ALGOLIA_API_KEY,
-            indexName: 'discord-interchatio',
-          } 
-          : undefined
+        ? {
+          appId: process.env.ALGOLIA_APP_ID,
+          apiKey: process.env.ALGOLIA_API_KEY,
+          indexName: 'discord-interchatio',
+        }
+        : undefined
       ,
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-  
+
       image: 'img/banner.jpg',
       navbar: {
         title: 'InterChat',
@@ -90,7 +91,7 @@ const config = {
             position: 'right',
           },
           {
-          href: 'https://dsc.gg/interchat-support',
+            href: 'https://dsc.gg/interchat-support',
             label: 'Community',
             position: 'right',
           },
@@ -129,9 +130,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    stylesheets: [
-      { href: 'src/css/custom.css' }
-    ]
+  stylesheets: [
+    { href: 'src/css/custom.css' }
+  ]
 };
 
-module.exports = config;
+export default config;

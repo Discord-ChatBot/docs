@@ -1,0 +1,47 @@
+{
+  "name": "InterChat",
+  "logo": {
+    "light": "/images/logo.png",
+    "dark": "/images/logo.png",
+    "href": "https://discord-interchat.github.io/"
+  },
+  "favicon": "/images/logo.png",
+  "colors": {
+    "primary": "#1c79c1",
+    "light": "#5cb5f9",
+    "dark": "#16517f"
+  },
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction", "messaging"]
+    },
+    {
+      "group": "Hubs",
+      "pages": ["hub/joining", "hub/leaving", "hub/management"]
+    },
+    {
+      "group": "Legal",
+      "pages": ["legal/privacy", "legal/terms"]
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Legal",
+      "url": "legal"
+    }
+  ],
+  "primaryTab": {
+    "name": "Guide"
+  },
+  "topbarLinks": [
+    {
+      "name": "Discord",
+      "url": "https://discord-interchat.github.io/support"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Invite InterChat",
+    "url": "https://discord-interchat.github.io/invite"
+  }
+}
