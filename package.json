@@ -3,28 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "typecheck": "tsc"
+    "dev": "mintlify dev"
   },
   "dependencies": {
-    "dotenv": "^16.3.1",
     "mintlify": "^4.0.104"
-  },
-  "devDependencies": {
-    "typescript": "^5.2.2"
-  },
-  "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "engines": {
-    "node": ">=18.7"
   }
 }

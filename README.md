@@ -2,40 +2,20 @@
 
 This is the official documentation for InterChat, a Discord bot that allows you to chat across different servers.
 
-### Installation
+## Installation
 
-```
-$ yarn
+```sh
+yarn
 ```
 
-### Local Development
+## Local Development
 
-```
-$ yarn start
+```sh
+yarn dev
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+## Deployment
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```sh
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```sh
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-This command is a convenient way to build the website and push to the `gh-pages` branch.
+Open a pull request to the `main` branch. Once the pull request is merged, the changes will be automatically deployed to <https://docs.interchat.fun>.
