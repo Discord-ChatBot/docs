@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#1c79c1",
     "light": "#5cb5f9",
-    "dark": "#5cb5f9"
+    "dark": "#16517f"
   },
   "navigation": [
     {
@@ -41,11 +41,20 @@
   "topbarLinks": [
     {
       "name": "Discord",
-      "url": "https://discord-interchat.github.io/support"
+      "url": "https://interchat.fun/support"
     }
   ],
   "topbarCtaButton": {
     "name": "Invite InterChat",
-    "url": "https://discord-interchat.github.io/invite"
+    "url": "https://interchat.fun/invite"
+  },
+  "feedback": {
+    "raiseIssue": true,
+    "suggestEdit": true,
+    "thumbsRating": true
+  },
+  "footerSocials": {
+    "discord": "https://interchat.fun/support",
+    "github": "https://Discord-InterChat/docs"
   }
 }
