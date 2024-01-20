@@ -56,5 +56,8 @@
   "footerSocials": {
     "discord": "https://interchat.fun/support",
     "github": "https://Discord-InterChat/docs"
+  },
+  "seo": {
+    "indexHiddenPages": true
   }
 }
