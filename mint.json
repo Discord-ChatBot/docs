@@ -1,0 +1,63 @@
+{
+  "name": "InterChat",
+  "logo": {
+    "light": "/images/icon_light.png",
+    "dark": "/images/icon_dark.png",
+    "href": "https://interchat.fun/"
+  },
+  "favicon": "/images/logo.png",
+  "colors": {
+    "primary": "#1c79c1",
+    "light": "#5cb5f9",
+    "dark": "#5cb5f9"
+  },
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction", "setup", "messaging"]
+    },
+    {
+      "group": "Hubs",
+      "pages": ["hub/joining", "hub/leaving", "hub/management"]
+    },
+    {
+      "group": "Legal",
+      "pages": ["legal/privacy", "legal/terms"]
+    },
+    {
+      "group": " ",
+      "pages": ["next-steps"]
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Legal",
+      "url": "legal"
+    }
+  ],
+  "primaryTab": {
+    "name": "Guide"
+  },
+  "topbarLinks": [
+    {
+      "name": "Discord",
+      "url": "https://interchat.fun/support"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Invite InterChat",
+    "url": "https://interchat.fun/invite"
+  },
+  "feedback": {
+    "raiseIssue": true,
+    "suggestEdit": true,
+    "thumbsRating": true
+  },
+  "footerSocials": {
+    "discord": "https://interchat.fun/support",
+    "github": "https://github.com/Discord-InterChat/docs"
+  },
+  "seo": {
+    "indexHiddenPages": true
+  }
+}
