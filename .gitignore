@@ -15,9 +15,10 @@
 .env.test.local
 .env.production.local
 
-npm-debug.log*
+.yarn/
 yarn-debug.log*
 yarn-error.log*
+npm-debug.log*
 
 # Environment variables
 .env

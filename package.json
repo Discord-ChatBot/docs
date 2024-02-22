@@ -6,6 +6,7 @@
     "dev": "mintlify dev"
   },
   "dependencies": {
-    "mintlify": "^4.0.104"
-  }
+    "mintlify": "^4.0.127"
+  },
+  "packageManager": "yarn@4.1.0"
 }
