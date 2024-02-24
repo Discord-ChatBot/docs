@@ -11,7 +11,7 @@
     "light": "#5cb5f9",
     "dark": "#5cb5f9",
     "background": {
-      "dark": "#323337"
+      "dark": "#343434"
     }
   },
   "navigation": [
@@ -21,7 +21,7 @@
     },
     {
       "group": "Hubs",
-      "pages": ["hub/joining", "hub/leaving", "hub/management"]
+      "pages": ["hub/joining", "hub/leaving", "hub/creating-deleting", "hub/editing", "hub/moderators"]
     },
     {
       "group": "Legal",
