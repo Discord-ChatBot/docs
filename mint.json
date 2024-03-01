@@ -10,9 +10,6 @@
     "primary": "#1c79c1",
     "light": "#5cb5f9",
     "dark": "#5cb5f9",
-    "background": {
-      "dark": "#343434"
-    }
   },
   "navigation": [
     {
