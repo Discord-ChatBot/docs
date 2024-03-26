@@ -9,13 +9,13 @@ description: >-
 
 # Privacy Policy
 
-### Interpretation and Definitions
+## Interpretation and Definitions
 
-#### Interpretation
+### Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in the singular or in the plural.
 
-#### Definitions <a href="#definitions" id="definitions"></a>
+### Definitions <a href="#definitions" id="definitions"></a>
 
 For the purposes of this Privacy Policy:
 
@@ -29,14 +29,14 @@ For the purposes of this Privacy Policy:
 * **You** mean the individual accessing or using our Service.
 * **Server Manager** refers to an individual who has the authority to add/configure the Bot to the server.
 
-### Collecting and Using Your Personal Data <a href="#collecting-and-using-your-personal-data" id="collecting-and-using-your-personal-data"></a>
+## Collecting and Using Your Personal Data <a href="#collecting-and-using-your-personal-data" id="collecting-and-using-your-personal-data"></a>
 
-#### Types of Data Collected <a href="#types-of-data-collected" id="types-of-data-collected"></a>
+### Types of Data Collected <a href="#types-of-data-collected" id="types-of-data-collected"></a>
 
 * Usage Data
 * Data Collected When Enabled
 
-**Usage Data**
+#### **Usage Data**
 
 Data that is Collected when the Bot is Invited. This includes:
 
@@ -47,28 +47,28 @@ Data that is typically collected when You invoke a command run by the Bot. The d
 * **User Data** - Includes your ID, name, tag, and avatar information.
 * **Message Information** - For the Bot's main functionalities, we store message IDs. Upon request, this data can be deleted.
 
-**Data Collected When Enabled**
+#### **Data Collected When Enabled**
 
 Additionally, data is collected when the Server Manager explicitly enables a feature.
 
 * As per version V3.0.0, no other data is collected here.
 
-#### Use of Your Personal Data <a href="#use-of-your-personal-data" id="use-of-your-personal-data"></a>
+### Use of Your Personal Data <a href="#use-of-your-personal-data" id="use-of-your-personal-data"></a>
 
 We may use Personal Data for the following purposes:
 
 * **To provide and maintain our Service**, including monitoring the usage of our Service.
 * **To manage Your requests:** To attend and manage Your requests to Us.
 
-#### Security of Your Personal Data <a href="#security-of-your-personal-data" id="security-of-your-personal-data"></a>
+### Security of Your Personal Data <a href="#security-of-your-personal-data" id="security-of-your-personal-data"></a>
 
 The majority of data is stored in password-protected databases like MongoDB. The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. Despite our efforts to protect Your Personal Data in a commercially acceptable manner, we cannot guarantee its absolute protection.
 
-### Changes to this Privacy Policy <a href="#changes-to-this-privacy-policy" id="changes-to-this-privacy-policy"></a>
+## Changes to this Privacy Policy <a href="#changes-to-this-privacy-policy" id="changes-to-this-privacy-policy"></a>
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.Prior to the change becoming effective, We will notify You via our support server announcements and/or a prominent notice on Our Service.You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-### Contact Us <a href="#contact-us" id="contact-us"></a>
+## Contact Us <a href="#contact-us" id="contact-us"></a>
 
 If you have any questions about this Privacy Policy, You can contact us:
 

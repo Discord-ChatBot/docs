@@ -3,7 +3,7 @@ title: Edit & Customize
 icon: pen-to-square
 ---
 
-# Edit & Customize
+# 🪄 Edit & Customize
 
 You can edit your hubs at any time. To do this, use the `/hub manage` command. This will open a menu where you can change your hub's settings. You can change your hub's name, icon, banner, description and more. You can also change your hub's visibility.
 

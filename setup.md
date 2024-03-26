@@ -6,9 +6,7 @@ description: >-
   across various servers. Follow the steps below to get started!
 ---
 
-# 🚀 Setting Up
-
-
+# 🚀 Get Set Up
 
 {% hint style="info" %}
 Invite InterChat here: [https://interchat.fun/invite](https://interchat.fun/invite)
@@ -21,7 +19,7 @@ Ensure the the following permissions are granted to the bot:
 * Embed Links
 {% endhint %}
 
-### Discover and Join Hubs
+## Discover and Join Hubs
 
 To find and join a public hub[^1]:
 
@@ -30,22 +28,22 @@ To find and join a public hub[^1]:
 3. When you find a hub that sparks your interest, click on 'Join'.
 4. Choose your preferred channel to connect it to the hub.
 
-<figure><img src="images/browse.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/browse.png" alt=""><figcaption><p>Hubs that are visible publicly can be paginated througheasily using the left and right arrow buttons.</p></figcaption></figure>
 
-#### Joining a Private Hub
+### Joining a Private Hub
 
 If you have an invite code for a private hub, follow these steps:
 
 1. Enter the command: `/hub join invite:<invite code>`
 
-#### Switching Hubs
+### Switching Hubs
 
 Before joining a new hub, you need to leave your current hub. Here's how:
 
 * Disconnect from your current hub.
 * Use the joining instructions in the "Joining a Hub" section for the new hub.
 
-#### Pausing Connection with a Hub
+## Pausing Connection with a Hub
 
 To stop messages from coming in or going out to a hub:
 
@@ -56,7 +54,7 @@ This ensures you won't send or receive messages with the hub while disconnected.
 
 <figure><img src="images/NetworkManage.png" alt=""><figcaption></figcaption></figure>
 
-### Permanently Leaving a Hub
+## Permanently Leaving a Hub
 
 To permanently leave a hub, enter the command `/hub leave`. If you decide to rejoin later, use `/hub join`
 
