@@ -13,7 +13,7 @@ There are two roles you can assign to moderators: `Network Moderator` and `Hub M
 
 **Example:**
 
-![Add Mod for Hubs](../.gitbook/assets/ModeratorAddHub.gif)
+![Add Mod for Hubs](../images/ModeratorAddHub.gif)
 
 ### Removing Moderators
 
@@ -21,4 +21,4 @@ To remove a moderator, use the `/hub moderator remove` command. Only the hub own
 
 #### Example:
 
-![Remove Mod for Hubs](../.gitbook/assets/ModRemoveHub.gif)
+![Remove Mod for Hubs](../images/ModRemoveHub.gif)

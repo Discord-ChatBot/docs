@@ -2,9 +2,8 @@
 
 * [InterChat Documentation](README.md)
 * [introduction](introduction.md)
-* [Messaging](messaging.md)
-* [next-steps](next-steps.md)
-* [Setting Up](setup.md)
+* [Next Steps](next-steps.md)
+* [🚀 Setting Up](setup.md)
 * [hub](hub/README.md)
   * [Creating & Deleting](hub/creating-deleting.md)
   * [Edit & Customize](hub/editing.md)
@@ -14,3 +13,7 @@
 * [legal](legal/README.md)
   * [Privacy Policy](legal/privacy.md)
   * [Terms of Service](legal/terms.md)
+
+## messaging
+
+* [🔁 Replying to Messages](messaging/messaging.md)

@@ -8,7 +8,7 @@ description: >-
 
 # introduction
 
-![Banner Light](.gitbook/assets/banner\_light.svg) ![Banner Dark](.gitbook/assets/banner\_dark.svg)
+![Banner Light](images/banner\_light.svg) ![Banner Dark](images/banner\_dark.svg)
 
 ### Why Choose InterChat?
 
