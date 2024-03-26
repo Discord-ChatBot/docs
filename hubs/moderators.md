@@ -3,7 +3,7 @@ title: Manage Moderators
 icon: shield-halved
 ---
 
-# Manage Moderators
+# 🛠️ Manage Moderators
 
 ### Adding Moderators
 

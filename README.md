@@ -8,7 +8,7 @@ cover: images/banner_dark.svg
 coverY: 50.87232219365895
 ---
 
-# Welcome
+# 👋 Welcome
 
 ## What is InterChat?
 
@@ -18,7 +18,7 @@ InterChat is a Discord bot that connects different servers, allowing users to co
 
 Unlock the power of server-to-server communication with ease. InterChat allows you to personalize your chat experience to your liking. From picking a unique embedded color, customizing hub icons, to opting for a more compact layout, InterChat lets you set the vibe. Connect with friends across different servers in an engaging and interactive manner.
 
-### Why Choose InterChat?
+### Why?
 
 * **Personalization at its Finest:** Tailor InterChat according to your preferences. Whether it's about setting a distinct color theme, modifying hub icons, or choosing a layout, the choice is yours.
 * **Seamless Server-to-Server Communication:** Experience the thrill of connecting with friends on different servers in a dynamic and interactive environment.
