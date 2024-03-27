@@ -19,10 +19,6 @@
 * [🚪 Leaving a Hub](hubs/leaving.md)
 * [🛠️ Manage Moderators](hubs/moderators.md)
 
-***
-
-* [Next Steps](next-steps.md)
-
 ## Legal Shenanigans <a href="#legal" id="legal"></a>
 
 * [Privacy Policy](legal/privacy.md)
