@@ -1,8 +1,13 @@
 ---
 title: Privacy Policy
-description: This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 icon: lock
+description: >-
+  This Privacy Policy describes Our policies and procedures on the collection,
+  use, and disclosure of Your information when You use the Service and tells You
+  about Your privacy rights and how the law pr
 ---
+
+# Privacy Policy
 
 ## Interpretation and Definitions
 
@@ -31,7 +36,7 @@ For the purposes of this Privacy Policy:
 * Usage Data
 * Data Collected When Enabled
 
-#### Usage Data <a href="#usage-data" id="usage-data"></a>
+#### **Usage Data**
 
 Data that is Collected when the Bot is Invited. This includes:
 
@@ -42,7 +47,7 @@ Data that is typically collected when You invoke a command run by the Bot. The d
 * **User Data** - Includes your ID, name, tag, and avatar information.
 * **Message Information** - For the Bot's main functionalities, we store message IDs. Upon request, this data can be deleted.
 
-#### Data Collected When Enabled <a href="#data-collected-when-enabled" id="data-collected-when-enabled"></a>
+#### **Data Collected When Enabled**
 
 Additionally, data is collected when the Server Manager explicitly enables a feature.
 
@@ -66,6 +71,7 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 ## Contact Us <a href="#contact-us" id="contact-us"></a>
 
 If you have any questions about this Privacy Policy, You can contact us:
-- On our [support server](https://interchat.fun/support)
+
+* On our [support server](https://interchat.fun/support)
 
 Last updated: Jan 16, 2024
