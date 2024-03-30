@@ -6,9 +6,23 @@ description: >-
   to set it up on your server.
 cover: .gitbook/assets/banner_dark.svg
 coverY: -47.14995715509854
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# 👋 Welcome to Our Wiki!
+# 👋 Welcome
 
 We're excited that you're here and to see how you can help us grow and improve! If you've got ideas or changes in mind, don't hesitate to hit the "Edit on GitHub" button you see below or hop into our discussion with your thoughts. :pencil2:
 

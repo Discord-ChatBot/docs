@@ -6,7 +6,7 @@
 ## messaging
 
 * [💬 Sending Messages](messaging/sending-messages.md)
-* [🔁 Replying to Messages](messaging/replying.md)
+* [🔁 Replying to Messages](messaging/messaging.md)
 * [🗑️ Deleting Messages](messaging/deleting-messages.md)
 * [✏️ Editing Your Messages](messaging/editing-your-messages.md)
 
