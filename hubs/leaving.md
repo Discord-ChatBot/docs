@@ -9,6 +9,6 @@ Leaving a hub is just as simple as joining, but there are a few things to keep i
 
 **Example:**
 
-![](../images/HubLeave.png)
+![](../.gitbook/assets/HubLeave.png)
 
 You can leave a public hub at any time, and you can rejoin later without any issues. However if you leave a private hub, you'll need to regain an invitation from the hub owner or moderators to join again.

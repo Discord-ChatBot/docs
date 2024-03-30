@@ -28,7 +28,7 @@ To find and join a public hub[^1]:
 3. When you find a hub that sparks your interest, click on 'Join'.
 4. Choose your preferred channel to connect it to the hub.
 
-<figure><img src="images/browse.png" alt=""><figcaption><p>Hubs that are visible publicly can be paginated througheasily using the left and right arrow buttons.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/browse.png" alt=""><figcaption><p>Hubs that are visible publicly can be paginated througheasily using the left and right arrow buttons.</p></figcaption></figure>
 
 ### Joining a Private Hub
 
@@ -52,13 +52,13 @@ To stop messages from coming in or going out to a hub:
 
 This ensures you won't send or receive messages with the hub while disconnected.
 
-<figure><img src="images/NetworkManage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/NetworkManage.png" alt=""><figcaption></figcaption></figure>
 
 ## Permanently Leaving a Hub
 
 To permanently leave a hub, enter the command `/hub leave`. If you decide to rejoin later, use `/hub join`
 
-<figure><img src="images/HubLeave.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/HubLeave.png" alt=""><figcaption></figcaption></figure>
 
 Now you're all set to chat seamlessly across different servers! 🚀
 

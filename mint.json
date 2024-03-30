@@ -1,11 +1,11 @@
 {
   "name": "InterChat",
   "logo": {
-    "light": "/images/icon_light.png",
-    "dark": "/images/icon_dark.png",
+    "light": "/.gitbook/assets/icon_light.png",
+    "dark": "/.gitbook/assets/icon_dark.png",
     "href": "https://interchat.fun/"
   },
-  "favicon": "/images/logo.png",
+  "favicon": "/.gitbook/assets/logo.png",
   "colors": {
     "primary": "#1c79c1",
     "light": "#5cb5f9",

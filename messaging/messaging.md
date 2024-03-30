@@ -12,4 +12,4 @@ InterChat's intuitive reply feature allows you to respond to messages sent in th
 
 InterChat will handle the rest, ensuring your reply is properly linked to the original message.
 
-<figure><img src="https://github.com/Discord-InterChat/docs/blob/main/images/MsgReply.gif?raw=true" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Discord-InterChat/docs/blob/main/.gitbook/assets/MsgReply.gif?raw=true" alt=""><figcaption></figcaption></figure>

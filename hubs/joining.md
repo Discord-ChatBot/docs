@@ -25,6 +25,6 @@ Joining a private hub requires an invitation code from the hub owner or moderato
 
 #### Example:
 
-![](../images/HubJoinPrivate.gif)
+![](../.gitbook/assets/HubJoinPrivate.gif)
 
 Make sure to replace `invite-code-here` with the actual invitation code provided to you. This will grant you access to the private hub.

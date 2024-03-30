@@ -9,13 +9,13 @@ You can edit your hubs at any time. To do this, use the `/hub manage` command. T
 
 **Example:** In this example, we'll change the visibility of our hub from public to private:
 
-![Hub Manage](../images/HubManage.gif)
+![Hub Manage](../.gitbook/assets/HubManage.gif)
 
 #### Hub Settings
 
 We have a separate panel for toggling your hub's global settings. It can be viewed in `/hub manage`
 
-![Hub Settings](../images/HubSettings.gif)
+![Hub Settings](../.gitbook/assets/HubSettings.gif)
 
 #### Receiving Logs
 
