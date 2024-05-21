@@ -5,21 +5,8 @@ description: >-
   cross-server communication. Start here to learn more about InterChat and how
   to set it up on your server.
 cover: .gitbook/assets/banner_dark.svg
-coverY: -47.14995715509854
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
+coverY: 0
+layout: landing
 ---
 
 # 👋 Welcome
