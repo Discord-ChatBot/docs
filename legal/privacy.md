@@ -5,6 +5,17 @@ description: >-
   This Privacy Policy describes Our policies and procedures on the collection,
   use, and disclosure of Your information when You use the Service and tells You
   about Your privacy rights and how the law pr
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Privacy Policy
