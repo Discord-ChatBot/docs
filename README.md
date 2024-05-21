@@ -4,7 +4,8 @@ description: >-
   InterChat is a powerful discord bot that enables effortless real-time
   cross-server communication. Start here to learn more about InterChat and how
   to set it up on your server.
-cover: .gitbook/assets/banner_dark.svg
+cover: >-
+  https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbG9iZXxlbnwwfHx8fDE3MTYyNzc1NDR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout: landing
 ---
