@@ -7,7 +7,20 @@ description: >-
 cover: >-
   https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbG9iZXxlbnwwfHx8fDE3MTYyNzc1NDR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout: landing
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome
