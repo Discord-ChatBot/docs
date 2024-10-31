@@ -17,10 +17,6 @@
   },
   "navigation": [
     {
-      "group": "Changelog",
-      "pages": ["changelog/updates"]
-    },
-    {
       "group": "Getting Started",
       "pages": ["quickstart", "setup", "prefix_commands"]
     },
@@ -46,6 +42,10 @@
     {
       "group": "Legal",
       "pages": ["legal/privacy", "legal/terms"]
+    },
+        {
+      "group": "Changelog",
+      "pages": ["changelog/updates"]
     }
   ],
   "tabs": [
