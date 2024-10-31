@@ -1,0 +1,156 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "InterChat",
+  "logo": {
+    "light": "/assets/icon_light.png",
+    "dark": "/assets/icon_dark.png",
+    "href": "https://interchat.fun/"
+  },
+  "favicon": "/assets/logo.png",
+  "colors": {
+    "primary": "#3b83f6",
+    "light": "#3b83f6",
+    "dark": "#3b83f6"
+  },
+  "background": {
+    "style": "windows"
+  },
+  "navigation": [
+    {
+      "group": "Changelog",
+      "pages": ["changelog/updates"]
+    },
+    {
+      "group": "Getting Started",
+      "pages": ["quickstart", "setup", "prefix_commands"]
+    },
+    {
+      "group": "Messaging",
+      "pages": [
+        "messaging/delete",
+        "messaging/edit",
+        "messaging/sending",
+        "messaging/replying"
+      ]
+    },
+    {
+      "group": "Hubs",
+      "pages": [
+        "hubs/joining",
+        "hubs/leaving",
+        "hubs/creating-deleting",
+        "hubs/editing",
+        "hubs/moderators"
+      ]
+    },
+    {
+      "group": "Legal",
+      "pages": ["legal/privacy", "legal/terms"]
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Legal",
+      "url": "legal"
+    },
+    {
+      "name": "Changelog",
+      "url": "changelog"
+    }
+  ],
+  "primaryTab": {
+    "name": "Guide"
+  },
+  "topbarLinks": [
+    {
+      "name": "Discord",
+      "url": "https://interchat.fun/support"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Invite InterChat",
+    "url": "https://interchat.fun/invite"
+  },
+  "feedback": {
+    "raiseIssue": true,
+    "suggestEdit": true
+  },
+  "seo": {
+    "indexHiddenPages": false
+  },
+  "modeToggle": {
+    "default": "dark"
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://interchat.fun/support",
+      "github": "https://github.com/Discord-InterChat/docs",
+      "website": "https://interchat.fun"
+    },
+    "links": [
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "label": "Changelog",
+            "url": "/changelog"
+          },
+          {
+            "label": "Support",
+            "url": "https://interchat.fun/support"
+          },
+          {
+            "label": "Invite",
+            "url": "https://interchat.fun/invite"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/Discord-InterChat"
+          },
+          {
+            "label": "Hub Browser",
+            "url": "https://interchat.fun/hubs"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "About",
+            "url": "https://interchat.fun/about"
+          },
+          {
+            "label": "Blog",
+            "url": "/blog"
+          },
+          {
+            "label": "Public Roadmap",
+            "url": "https://github.com/orgs/Discord-InterChat/projects/3"
+          },
+          {
+            "label": "Translate InterChat",
+            "url": "https://translate.interchat.fun"
+          },
+          {
+            "label": "Apply for Staff",
+            "url": "https://interchat.fun/apply"
+          }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          {
+            "label": "Privacy Policy",
+            "url": "/legal/privacy"
+          },
+          {
+            "label": "Terms of Service",
+            "url": "/legal/terms"
+          }
+        ]
+      }
+    ]
+  }
+}
