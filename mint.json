@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "InterChat",
   "logo": {
-    "light": "/assets/icon_light.png",
-    "dark": "/assets/icon_dark.png",
+    "light": "/assets/MintlifyLight.svg",
+    "dark": "/assets/MintlifyDark.svg",
     "href": "https://interchat.fun/"
   },
   "favicon": "/assets/logo.png",
@@ -18,7 +18,7 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["quickstart", "setup", "prefix_commands"]
+      "pages": ["quickstart", "setup", "prefix-commands"]
     },
     {
       "group": "Messaging",
