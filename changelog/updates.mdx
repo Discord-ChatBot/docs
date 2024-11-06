@@ -2,7 +2,108 @@
 title: Updates
 icon: clock-rotate-left
 description: Stay up-to-date with the latest InterChat features, improvements, and bug fixes. Check out our changelog below!
+mode: "wide"
+sidepanel: false
 ---
+
+<Update label="4.0.0" description="2024-11-06">
+  ## 🎉 What's Changed
+  - **New UI**: A fresh new look for the bot with a modern and clean design.
+  - **New Web Hub Finder:** Search and join hubs directly from our hub browser, [interchat.fun/hubs](https://interchat.fun/hubs)!
+  - **Improved Replies**: If an image URL is added to a reply, the replying-to embed is now removed for a cleaner view.
+    <Accordion title="Images" defaultOpen="true">
+      ### Before
+      ![](https://i.imgur.com/yhYL8ll.png)
+      ### After
+      ![](https://i.imgur.com/Wktv0RQ.png)
+      ![](https://i.imgur.com/0NXvBtZ.png)  
+    </Accordion>
+  - **Enhanced Mentions**: Pings now appear in message replies, improving context and user interactions
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/0NXvBtZ.png)
+    </Accordion>
+  - **Better NSFW Detection**: Now uses a better model for detecting NSFW images.
+  - **Message Details**: Redesigned the messageInfo embed for better clarity and user experience.
+      <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/x1nHS8D.png)
+    </Accordion>
+  - **Mod Actions Panel**: A new panel for moderators to view and take actions on infractions and other mod tasks such as:
+    - Delete messages
+    - View infractions
+    - Blacklist users
+    - View message details
+    - Remove reactions
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/r3ZqPZU.png)
+    </Accordion>
+  - **Infractions System**: New infraction management features for tracking past blacklists.
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/05zUob5.png)
+      ![](https://i.imgur.com/fvGbUFc.png)
+    </Accordion>
+  - add View Infractions command, and button to Mod actions panel #140 (dev-737)
+  - **Profanity Check**: Server names are now checked for profanity in when joining a hub.
+  - **Hub Settings and Logging**: Added `/hub settings` to toggle hub settings and `/hub logging` access logging features.
+    <Accordion title="Images" defaultOpen="true">
+      ### Settings
+      ![](https://i.imgur.com/7FD4uHZ.png)
+      ![](https://i.imgur.com/ojzFpVr.png)
+      ### Logging
+      ![](https://i.imgur.com/JQNWv7x.png)
+      ![](https://i.imgur.com/Dglk26F.png)
+    </Accordion>
+  - **Blacklist Appeals**: Users can now appeal blacklists via a button, making the process more accessible.
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/0qag6br.png)
+      ![](https://i.imgur.com/pdxKOhZ.png)
+    </Accordion>
+  - **Message Information Command Update**: Now has a mod actions button.
+  - **Redis-based Message Storage**: Messages are now stored fully in Redis for efficient retrieval and processing.
+  - **Message Blocking**: Introduced a block list that is similar to how discord automod works, for hubs to manage prohibited words and phrases. Can be managed via `/hub blockwords`.
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/qunDLCQ.png)
+    </Accordion>
+  - **Hub Announcements**: New command for admins to announce updates or news to all hub members.
+  - **Random Hub Join Option**: Users can now join a random hub if no invite or name is specified.
+  - **Mod Commands**: Added `c!modpanel` and `c!deletemsg` commands for moderators.
+  - **We are slowly adding prefix versions of commands.**
+  - Hubs now have requirements for going public. They must have a minimum of 2 mods, set report channel and be older than 24 hours.
+    <Accordion title="Images" defaultOpen="true">
+      ![](https://i.imgur.com/EjrmW5L.png)
+    </Accordion>
+
+## Bug Fixes
+
+- Long blacklists expire again!
+- Onboarding Fix: Resolved a bug with onboarding in progress. (credits to @sourcerer31 for finding this, it was there for a while in v3)
+
+## \</> New Commands
+
+- `/hub settings` - Toggle hub settings.
+- `/hub logging` - Access logging features.
+- `/hub blockwords` - Manage prohibited words and phrases.
+- `/hub announce` - Announce updates or news to all hub members.
+- `/about` - View information about the bot and also credits.
+- `Apps > Moderation Actions` - View and take actions on infractions and other mod tasks directly on messages.
+- `/hub infractions` - View infractions for a user.
+- `/hub appeal set_cooldown` - Set the cooldown for how often users can appeal blacklists. (eg. user can only appeal once every 7 days)
+- `/hub visibility` - Set the visibility of the hub. (public or private)
+- `/set reply_mentions` - Toggle whether you want to be pinged when someone replies to your messages.
+
+### Command Renames
+
+- `/connection customize` 🡢 `/connection edit`
+- `/hub manage` 🡢 `/hub edit`
+- `/hub joined` 🡢 `/connection list`
+- `/hub moderator update` 🡢 `/hub moderator edit`
+
+### Others
+
+- Introducing a Fresh New Website: [interchat.fun](https://interchat.fun)!
+  ![](https://i.imgur.com/lRxBW8K.png)
+- New Hub Finder: [interchat.fun/hubs](https://interchat.fun/hubs)
+  ![](/assets/HubBrowser.png)
+</Update>
 
 <Update label="3.27.0" description="2024-06-21">
   ## 🎉 What's Changed
