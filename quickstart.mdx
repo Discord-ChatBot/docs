@@ -1,7 +1,7 @@
 ---
 icon: rocket
 description: >-
-  Welcome to the **InterChat Documentation**!  This guide is designed to help you understand and get the most out of InterChat—a cross-server chat bot that connects communities across multiple servers, fostering real-time conversation and collaboration.
+  This guide will help you understand InterChat—a cross-server chat bot that connects communities across multiple servers.
 cover: >-
   https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbG9iZXxlbnwwfHx8fDE3MTYyNzc1NDR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -12,34 +12,31 @@ coverY: 0
 
 This documentation is a work in progress. There may be incomplete sections, and some features may not be fully implemented. We appreciate your patience as we continue to improve the documentation and the InterChat bot.
 If you want to contribute to the documentation, please visit the [GitHub repository](https://github.com/Discord-InterChat/docs).
+
 </Warning>
 
 ## What is InterChat?
 
-InterChat is a powerful and customizable Discord bot that lets you to create "hubs" or groups where messages sent in a designated channel are broadcasted to other servers within the hub. Whether you want to connect multiple servers under one community or build a network for people with shared interests, InterChat gives you the tools to make it happen.
+It's a discord bot. You already knew that. It has two main features:
 
-## Key Features
+1. **Hubs:** Say a hub "A" was created. Then a server called "Server X" joined it from their channel, then another server called "Server Y"...and so on joined it. When Server A sent a message, it got broadcasted to Server Y, Server Z, and other members. Woah cool :O. That's what hubs do. They connect servers together.
 
-- **Cross-Server Messaging:** InterChat broadcasts messages to all connected servers within a hub, creating a seamless conversation experience across Discord communities.
-- **Moderation Tools:** Equipped with a comprehensive infraction system, InterChat helps keep conversations respectful and aligns with each hub's specific rules.
-- **Customizable Word Filters:** Server moderators can block specific words or patterns (with support for both regular expressions and simple word lists) to ensure safe and relevant conversations.
-- **User-Friendly Interface:** InterChat offers a straightforward setup process and can be easily managed through Discord's intuitive UI, making it accessible for users of all technical levels.
+2. **Lobbies:** Lobbies are temporary user-created hubs where you can chat with other people from other servers. It's like userphone but with enough space for upto 3 servers.
 
-### Premium Features (Not yet available)
+Along with these, InterChat has a lot of moderation tools to help keep conversations respectful and safe for everyone.
 
-For users looking to get even more out of InterChat, a **premium version** offers enhanced capabilities:
+### Setting up
 
-- **Multiple Block Lists per Hub:** Premium users can maintain up to three separate word filter lists per hub.
-- **Extended Infraction Management:** Enhanced insights into user history with additional infraction tracking tools.
+1. **Invite InterChat to Your Server:** You’ll need server management permissions to set up InterChat. Invite the bot to your server by clicking [here](https://discord.com/oauth2/authorize?client_id=769921109209907241&permissions=8&scope=bot).
+2. **Join a hub or lobby:** InterChat offers two distinct features to connect with other servers:
+   - **Hub (or group):** Use the `/setup interchat` command to join a hub. This will make your server a part of the hub, allowing you to chat with other servers in the same hub. You connection stays forever and there can be any number of servers in a hub. This is good for long-term connections and for building a community.
+   - **Lobby (temp hubs):** Use `c!call` to join a lobby. InterChat will match you with other people trying to find a lobby to chat in. You can leave the lobby at any time by using `c!leave`. Similar to how userphone works, this is good for a quick chat with people from other servers.
+3. Chat away! ✨
 
-### Getting Started
+### Need Help? Have Suggestions? Found a Bug?
 
-If you're new to InterChat, follow these steps:
+The devs love that stuff. Join the [InterChat Support Server](https://interchat.fun/support) right now. Send it. They need more. MORE FEEDBACK. They're hungry for it. They crave- okay, you get the point.
 
-1. **Invite InterChat to Your Server:** You’ll need server management permissions to set up InterChat. Invite the bot to your server by clicking [here](https://discord.com/oauth2/authorize?client_id=871627754448732692&permissions=8&scope=bot).
-2. **Create or Join a Hub:** Connect your server to an existing hub (`/hub join`) or create a new one (`/hub create`) to start sharing messages across communities.
-3. **Customize Settings:** Adjust moderation settings, configure word filters, and manage users to align InterChat with your server’s rules. (`/connection edit` if you joined a hub or `/hub` if you created one)
+### Show Your Support (pls)
 
-For a deeper dive into setup and customization, continue through this documentation, and feel free to reach out to our support team or community if you need assistance.
-
-Welcome to the InterChat community—let’s connect your world!
+If you like the bot, consider voting for it on [top.gg](https://top.gg/bot/769921109209907241). It helps the bot reach more people and grow the community. Also starring the [GitHub repository](https://github.com/Discord-InterChat/InterChat) would be nice too. Thank you, we mean it ❤️.

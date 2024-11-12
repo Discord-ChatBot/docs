@@ -18,7 +18,7 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["quickstart", "setup", "prefix-commands"]
+      "pages": ["quickstart", "prefix-commands", "creating-first-hub"]
     },
     {
       "group": "Messaging",
